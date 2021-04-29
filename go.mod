@@ -1,3 +1,3 @@
-module github.com/journey-ad/steam-go
+module github.com/jadehare/steam-go
 
 go 1.14
